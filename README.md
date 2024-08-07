@@ -1,1 +1,1 @@
-# sw-deploy
+# sw
